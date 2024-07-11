@@ -34,7 +34,7 @@ def search_for_keywords(content, keywords):
     return leaks
 
 domain = "https://ENTERWEBSITEURLHERE.com"
-keywords = ["password", "pwd", "login", "credentials"]
+keywords = ["ENTER", "KEYWORDS", "HERE"]
 
 urls = fetch_urls(domain)
 content = fetch_content(urls)
